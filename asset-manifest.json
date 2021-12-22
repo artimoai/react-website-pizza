@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-website-pizza/static/css/main.85cb9e50.css",
+    "main.js": "/react-website-pizza/static/js/main.46a62f35.js",
+    "static/media/pizzaContact.jpg": "/react-website-pizza/static/media/pizzaContact.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/react-website-pizza/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizzaBackground.jpeg": "/react-website-pizza/static/media/pizzaBackground.21a1098fa87e28d80f37.jpeg",
+    "static/media/pizzaAbout.jpeg": "/react-website-pizza/static/media/pizzaAbout.490709e2113d96ca24a1.jpeg",
+    "static/media/pizzaLogo.png": "/react-website-pizza/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/salmone.jpg": "/react-website-pizza/static/media/salmone.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/react-website-pizza/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/react-website-pizza/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/react-website-pizza/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/scottish.jpg": "/react-website-pizza/static/media/scottish.425951cb0e484775fd4c.jpg",
+    "index.html": "/react-website-pizza/index.html",
+    "main.85cb9e50.css.map": "/react-website-pizza/static/css/main.85cb9e50.css.map",
+    "main.46a62f35.js.map": "/react-website-pizza/static/js/main.46a62f35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85cb9e50.css",
+    "static/js/main.46a62f35.js"
+  ]
+}
