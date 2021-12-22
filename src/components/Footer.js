@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import FacebookIcon from "@mui/icons-material/Facebook";
@@ -11,7 +12,9 @@ function Footer() {
 			<div className="socialMedia">
 				<InstagramIcon /> <TwitterIcon /> <FacebookIcon /> <LinkedInIcon />
 			</div>
-			<p>&copy; 2021 scottishpizza.co.uk</p>
+			<p>
+				&copy; 2021 <Link to="/">scottishpizza.co.uk</Link>
+			</p>
 		</div>
 	);
 }

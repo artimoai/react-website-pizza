@@ -19,9 +19,8 @@
 .headerContainer h1 {
 	justify-content: center;
 	align-items: center;
-	font-size: 90px;
-	height: 60px;
-	font-weight: 50;
+	font-size: 5rem;
+	font-weight: bold;
 	color: black;
 }
 
@@ -38,16 +37,17 @@
 	border-radius: 5px;
 	cursor: pointer;
 	justify-content: center;
-	background-color: #121619;
+	background-color: #ea3b00;
 	height: 50px;
 	width: 180px;
 	color: white;
+	font-weight: bold;
 	text-decoration: none;
 	font-size: 20px;
 }
 
 .headerContainer button:hover {
-	background-color: #07090a;
+	background-color: #f75200;
 	cursor: pointer;
 	transition: 0.3s ease-in;
 }
@@ -84,12 +84,12 @@
 
 	.headerContainer button {
 		background-color: white;
-		color: #121619;
+		color: #ea3b00;
 		margin-bottom: 30px;
 	}
 
 	.headerContainer button:hover {
 		background-color: rgb(225, 225, 225);
-		color: #121619;
+		color: #f75200;
 	}
 }

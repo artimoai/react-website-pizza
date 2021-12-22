@@ -13,7 +13,7 @@ function home() {
 				<h1>Scottish Pizzeria</h1>
 				<p>Pizza. Whenever you're hungry.</p>
 				<Link to="/menu">
-					<button>ORDER NOW</button>
+					<button id="order">ORDER NOW</button>
 				</Link>
 			</div>
 		</div>
